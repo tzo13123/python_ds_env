@@ -46,3 +46,5 @@ Contiene las principales librerías de Python para Data Science. El environment 
 2. Utilizar herramienta de compresión (WinRAR o 7-zip) para descomprimir archivo
 3. Ubicar carpeta envs [Posible ruta C:\Users\.conda\envs]. En dicha carpeta se almacenan los environments creados dentro de Anaconda
 4. Colocar la carpeta extraída en el paso 2 dentro de carpeta *envs*
+5. Iniciar Anaconda
+6. Configurar el environment PYTHON_BPI
