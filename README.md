@@ -2,6 +2,8 @@
 
 Contiene las principales librerías de Python para Data Science. El environment está sobre **Python 3.6** contiene:
 
+
+
 ### Herramientas
 1. CMD - Prompt (Run a cmd.exe with your current environment from Navigator activated)
 
@@ -13,6 +15,7 @@ Contiene las principales librerías de Python para Data Science. El environment 
 3. Spyder
   * spyder 3.3.6 
   * spyder-kernels 0.5.2
+
 
 
 ### Librerías Adicionales al paquete base
@@ -40,6 +43,8 @@ Contiene las principales librerías de Python para Data Science. El environment 
 
 #### DV - API & Containers
 * Flask 1.1.2
+
+
 
 ### Instalación
 1. Descargar archivos
